@@ -1,0 +1,13 @@
+body{
+	background-image: url("Background.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.ridom{
+	color: green;
+	background: lemonchiffon;
+}
+p{
+	text-align: justify;
+}
